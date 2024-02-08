@@ -1,5 +1,12 @@
 # Presto Workshop
 
+## Participação no Workshop no dia 07/02/2024
+### Edit: Inclui um arquivo docker-compose.yaml para facilitar o steup do ambiente
+Para inicializar o ambiente pelo docker composer basta entra na pasta pelo terminal e colar a linha de comando:
+```
+docker-compose -f docker-compose.yaml up -d
+```
+---
 This is a repo that hosts the materials for the Presto workshop. You can view the workshop
 [here](https://ibm.github.io/presto-101-lab/)
 
